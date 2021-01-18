@@ -1,0 +1,42 @@
+.menu {
+  border: 1px solid black;
+  width:410px;
+  background: silver;
+  text-align: justify;
+  border-radius: 20px;
+  box-shadow: 5px 5px silver;
+  margin-top: 15%;
+  margin-left: 15%;
+}
+
+ul {
+  display: inline;
+  margin-top: 0;
+}
+
+li {
+  list-style-type: none;
+  height: 30px;
+  padding-top: 20px;
+  padding-right: 20px;
+  vertical-align: middle;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  margin: 10px 20px;
+}
+
+
+li:hover {
+  background: grey;
+}
+
+li a:active {
+  color:blue;
+}
+
+.f {
+  margin-top: -20px;
+}

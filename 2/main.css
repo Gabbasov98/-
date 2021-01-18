@@ -1,0 +1,78 @@
+.form {
+  width:40%;
+  border: 1px solid black;
+  background: silver;
+  padding: 1%;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+hr {
+  width: 104.5%;
+  margin-left: -14px;
+  height: 2px;
+}
+
+.pass{
+  display: inline-block;
+}
+#email {width: 98%;}
+
+#password1 {
+  width: 47%;
+  margin-right: 4px;
+}
+
+#password2 {width: 47%}
+
+#name {width: 98%;}
+
+#year{
+  width:45%;
+  text-align: left;
+}
+label{
+  margin-left: 3px;
+  margin-bottom: 5px;
+  width: 98%;
+}
+
+input {
+  margin-bottom: 20px;
+  height: 30px;
+  border: 1px solid #9C9C9C;
+  border-radius: 4px;
+  outline: none;
+  padding-left: 1%;
+}
+
+input:hover,
+button:hover {
+  border: 2px solid blue;
+}
+
+label.pass {
+  width: 48.5%;
+  margin-left: 4px;
+
+}
+
+
+button {
+  height: 40px;
+  border: 1px solid #9C9C9C;
+  padding: 2%;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+#btn-1 {
+  background: grey;
+  color:white;
+  width: 140px;
+}
+
+#btn-2{
+  float:right;
+  width: 90px;
+}

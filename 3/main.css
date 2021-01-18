@@ -1,0 +1,27 @@
+
+div {
+  width: 90%;
+  position: absolute;
+}
+
+li {
+  list-style-type: none;
+  float: left;
+  width: 30%;
+  margin-right: 1%;
+  background: silver;
+  text-align: center;
+  height: 45px;
+  padding-top: 20px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+li:hover {
+  border: 1px solid blue;
+}
+
+.active {
+  background: #2EA139;
+}
